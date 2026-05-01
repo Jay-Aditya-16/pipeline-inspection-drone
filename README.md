@@ -227,6 +227,7 @@ Trend: rising at 91.7 ppm/m. Next-meter prediction: 2987.7 ppm.
 Leak zone localized spatially to distance 85–95 m at altitude ~44,330 cm.
 
 ---
+<img width="1280" height="720" alt="WhatsApp Image 2026-05-01 at 21 42 24" src="https://github.com/user-attachments/assets/b78bd902-c3ba-4695-ba2d-46b930e3a3ed" />
 
 ## Roadmap
 
@@ -245,5 +246,4 @@ MIT License. See [LICENSE](LICENSE).
 ---
 
 ## Author
-
-Built by Jay for the [Hackathon Name] 2026.
+Jay
