@@ -229,6 +229,17 @@ Leak zone localized spatially to distance 85–95 m at altitude ~44,330 cm.
 ---
 <img width="1280" height="720" alt="WhatsApp Image 2026-05-01 at 21 42 24" src="https://github.com/user-attachments/assets/b78bd902-c3ba-4695-ba2d-46b930e3a3ed" />
 
+<img width="1600" height="905" alt="WhatsApp Image 2026-05-01 at 21 42 26 (1)" src="https://github.com/user-attachments/assets/8c3ac746-5363-43ec-b344-409b992fc1fd" />
+
+<img width="1280" height="720" alt="WhatsApp Image 2026-05-01 at 21 42 26 (2)" src="https://github.com/user-attachments/assets/4ab781b1-9fb3-43e2-9347-ed710c92f865" />
+<img width="1280" height="720" alt="WhatsApp Image 2026-05-01 at 21 42 26 (3)" src="https://github.com/user-attachments/assets/0f4c6aee-32b3-4b97-b41c-7c5969a401e2" />
+
+<img width="1600" height="1200" alt="WhatsApp Image 2026-05-01 at 21 42 21 (1)" src="https://github.com/user-attachments/assets/b2f4afe4-1fc1-4a89-8976-173f75be9820" />
+<img width="1280" height="765" alt="WhatsApp Image 2026-05-01 at 21 42 21 (2)" src="https://github.com/user-attachments/assets/ae5318ce-d821-41ff-8445-edd886557fdb" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-05-01 at 21 42 21 (3)" src="https://github.com/user-attachments/assets/bdc67608-3a7c-4675-ac18-b773131957b4" />
+<img width="715" height="1600" alt="WhatsApp Image 2026-05-01 at 21 42 20" src="https://github.com/user-attachments/assets/222a86e9-fb2b-4907-8a75-efcf3e662683" />
+
+
 ## Roadmap
 
 - SLAM integration (ORB-SLAM3 on Jetson Nano) for globally consistent 3D mapping
