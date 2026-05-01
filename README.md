@@ -115,10 +115,7 @@ $$\hat{x}_t = \alpha \cdot x_t + (1 - \alpha)\,\hat{x}_{t-1}, \quad \alpha = 0.1
 
 ### Raspberry Pi
 
-```bash
-git clone https://github.com/yourusername/pipeline-inspection-drone.git
-cd pipeline-inspection-drone
-pip install -r requirements.txt
+
 ```
 
 Enable UART on the Raspberry Pi (add to `/boot/config.txt`):
